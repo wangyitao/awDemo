@@ -1,0 +1,66 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+# Date: 21/01/2018
+
+
+"""
+    项目中所使用到微信通知模板
+"""
+
+
+# 审核状态模板
+AUDIT_STATUS_TEMPLATE = "QZWeemJvUqo8odCwy8FQmZHpUY5CvAfFn3DIvIJqlHE"
+
+# 提现结果模板
+WITHDRAWAL_RESULT_TEMPLATE = "rJCCN3cvue_1mhbOkqbm1svjl4BqJ9ZZ5hDzdV32ufA"
+
+# 休学申请模板
+SUSPENSION_TEMPLATE = "QZWeemJvUqo8odCwy8FQmZHpUY5CvAfFn3DIvIJqlHE"
+
+# 交易成功模板
+TRADE_SUCCESS_TEMPLATE = "kwjyKG1ZL7Zj6WsdKaEBj67pIcpp5y6zJWhNVR2y3ZA"
+
+# 分配导师通知模板
+DISTRIBUTION_MENTOR_TEMPLATE = "QQcuPFZDcAyzEc8Eeztk-CFSLSgVxSoRoQrDsRAEBa4"
+
+# 转账验证模板
+TRANSFER_VERIFY_TEMPLATE = "DxAtn4dQZN11Sh4S-PbiOU68s7Jp__-hlWHGeGTI0SA"
+
+# 导师状态通知(购买了学位课程的学员分配导师成功)
+MENTOR_STATUS_TEMPLATE = "QQcuPFZDcAyzEc8Eeztk-CFSLSgVxSoRoQrDsRAEBa4"
+
+# 学位奖学金变动通知模板
+SCORE_CHANGE_TEMPLATE = "DgfoEd6yez8xt_eSAAp3hmYLxhwivZk1acxQYJOoT44"
+
+# 考核记录或作业创建完成提醒(通知到管理员进行审核)
+ASSESSMENT_TEMPLATE = "10bhLylzrtgidkhlTCiCmzLf7Ago8dFt9VakUV2D91Q"
+
+# 学习进度提醒模板
+STUDY_PROGRESS_TEMPLATE = "pa3S2TfDPAzR5DqXmFOJ4eWFA2A7baFtqVB-psmIE98"
+
+# 作业批改完成提醒模板
+CORRECT_SUCCESS_TEMPLATE = "_2XR7MCDymX5930dGpOWVOJburhy1MCtt_pVafTGaS8"
+
+# 新答案提醒模板
+NEW_ANSWER_TEMPLATE = "TgT5x0puoxM75Vkcyv_3q77H4MIORFD-kngrVf1AOHw"
+
+# 收到反馈进行提醒模板
+FEEDBACK_TEMPLATE = "rXXh2QgC64WpwKPafH6tvdH8_RYo1Hv_mV-9sH0VVj8"
+
+# 报名成功提醒模板
+ENROLL_SUCCESS_TEMPLATE = "e-gec1-9CneIiVMyks4P2rmDoV7CCYAFAzQ2-tF-oxQ"
+
+# 用户跟进提醒
+USER_FOLLOW_UP_TEMPLATE = "8xNKNOjDYQAzMkAs1cwA5_htovcs6wxHY0J8LwHNDhc"
+
+# 课程通知
+COURSE_NOTICE_TEMPLATE = "Up_TKmc2HLKoKSFqyzC06nlqyK4g7eGMcrVy7C6Y6JA"
+
+# 新追问提醒
+ASK_TEMPLATE = "yw_6m79a5BFFx2XP95tOs7EO35CTqkNKHMcPyTTf8N8"
+
+# 讲师回复通知
+REPLAY_TEMPLATE = "W5oYHLiiSNWGUcTSpcUwMR_zzQb-7YL-HFYfpLCgh-I"
+
+# 服务评价模板
+EVALUATION_TEMPLATE = "Rt0AZGRRYXeHaQMlsfgVpGlJ0hN9XEGL5aYrCwI4R34"
